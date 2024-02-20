@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "openshift-ai-sdk"
+name = "test-eder-ai-sdk"
 version = "0.1.0"
-description = "A Python SDK for managing OpenShift AI projects"
+description = "A Tentative Test of Python SDK for managing OpenShift AI projects"
 authors = ["Eder Ignatowicz <ignatowicz@gmail.com>"]
 readme = "README.md"
 license = "Apache"
